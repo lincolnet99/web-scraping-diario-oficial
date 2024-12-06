@@ -1,0 +1,14 @@
+pypdf
+langchain # usando com ollama
+chromadb # banco de dados da i.a
+pytest
+boto3
+watchdog
+langchain_community # chamadas da i.a
+langchain_ollama
+load_dotenv
+selenium # automação e scraping
+pyodbc # acesso ao banco de dados
+requests
+langchain_chroma 
+schedule
